@@ -1,0 +1,293 @@
+@import url(./font.css);
+
+body {
+    font-family: "poppins";
+}
+
+.header {
+    display: flex;
+
+    width: 1440px;
+    height: 80px;
+    background-color: white;
+
+
+
+}
+
+.product {
+
+    font-family: "Poppins";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: #2A3342;
+
+
+}
+
+
+
+.menu {
+    display: flex;
+    font-size: 16px;
+    line-height: 24px;
+    color: #556987;
+    padding-left: 88px;
+    padding-top: 27px;
+    gap: 48px;
+}
+
+.flexpng {
+    display: flex;
+    width: 94.18px;
+    height: 32px;
+    padding-top: 24px;
+    padding-left: 169px;
+
+    justify-content: center;
+
+
+
+}
+
+.login {
+
+
+    font-family: "Poppins";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    color: #556987;
+    margin-top: 6px;
+
+
+}
+
+.signup {
+    width: 86px;
+    height: 36px;
+
+
+    left: 1266px;
+
+    border-radius: 6px;
+    gap: 6px;
+    background-color: #22C55E;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    color: #F0FDF4;
+    border: none;
+    cursor: pointer;
+
+
+
+
+
+
+}
+
+.auth {
+    display: flex;
+    margin-left: 427.82px;
+    margin-top: 21px;
+    gap: 24px;
+}
+
+.team {
+    width: 49px;
+    height: 22px;
+    margin-top: 88px;
+    margin-left: 150px;
+
+
+    border-radius: 36px;
+
+    background-color: #DCFCE7;
+
+    font-family: "Poppins";
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #22C55E;
+
+
+}
+
+.meetourteam {
+
+    font-family: "Poppins";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    width: 359px;
+    margin-top: 30px;
+    margin-left: 150px;
+    color: #2A3342;
+
+}
+
+.longtext {
+    width: 463.35px;
+    height: 60px;
+    margin-top: 44.35px;
+    margin-left: 150px;
+
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #556987;
+
+
+}
+
+
+
+.main_div {
+    display: flex;
+
+
+}
+
+
+
+
+.hiring {
+
+    width: 177px;
+    height: 56px;
+    margin-top: 147px;
+    margin-left: 324px;
+    padding: 16px, 28px, 16px, 28px;
+    border-radius: 6px;
+
+
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    background-color: #22C55E;
+
+    padding-top: 16px;
+    padding-left: 28px;
+    gap: 8px;
+    color: #F0FDF4;
+
+
+
+
+
+}
+
+.culture {
+    width: 161px;
+    height: 56px;
+
+    margin-left: 16px;
+    margin-top: 160px;
+
+
+    border-radius: 6px;
+    border: 1px;
+    gap: 8px;
+
+
+
+
+
+
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+
+}
+
+.uli {
+    display: flex;
+}
+
+.grid1 {
+    display: flex;
+
+
+    width: 300px;
+
+}
+
+.grid2 {
+    display: flex;
+
+}
+
+.first {
+    width: 749px;
+    height: 801px;
+    margin-top: 64px;
+    margin-left: 150px;
+    padding: 681px, 40px, 40px, 40px;
+
+
+
+}
+
+.second {
+    width: 359px;
+    height: 384px;
+    margin-top: 64px;
+    margin-left: 33px;
+    padding: 264px, 40px, 40px, 40px;
+
+}
+
+.third {
+    width: 359px;
+    height: 384px;
+    margin-top: 30px;
+    margin-left: 33px;
+    padding: 264px, 40px, 40px, 40px;
+
+}
+
+.fourth {
+    width: 359px;
+    height: 384px;
+    margin-top: 32px;
+    margin-left: 150px;
+    padding: 220px, 40px, 40px, 40px;
+
+}
+
+.fifth {
+    width: 359px;
+    height: 384px;
+    margin-top: 30px;
+    margin-left: 150px;
+    padding: 264px, 76.19px, 40px, 40px;
+
+}
+
+.sixth {
+    width: 749px;
+    height: 801px;
+    margin-top: 32px;
+    margin-left: 32px;
+    padding: 681px, 325.33px, 40px, 40px;
+
+}
